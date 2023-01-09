@@ -1,2 +1,2 @@
-# Compiler-Design-Lab
-Projects done as part of the Compiler Design lab
+# College-Lab-Projects
+Projects done during Undergraduate course
